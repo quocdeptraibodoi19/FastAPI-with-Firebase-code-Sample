@@ -153,8 +153,14 @@ async def add_more_book(book: Books = Depends()):
 	mybook = db.reference("Books").child("Best_Sellers").push(dict(book)).get()
 	return mybook 
 
-<<<<<<< HEAD
 # AbcE
-=======
 #Nguyen  Dinh Quoc
->>>>>>> branch2
+# abcd
+#asdfsdf
+# test
+#daasf
+<<<<<<< HEAD
+#dsafsd
+=======
+#dwsfasdf
+>>>>>>> 3e187be877a3558e8118bb98c15827f8a825c595
