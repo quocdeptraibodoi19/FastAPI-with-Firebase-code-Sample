@@ -156,4 +156,8 @@ async def add_more_book(book: Books = Depends()):
 # AbcE
 #Nguyen  Dinh Quoc
 # abcd
+<<<<<<< HEAD
 #asdfsdf
+=======
+# test
+>>>>>>> 69da0515c73381d1bc2834d387389dbc388f2d38
